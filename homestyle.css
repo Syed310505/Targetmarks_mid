@@ -1,0 +1,61 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: border-box;
+}
+
+
+.navbar{
+    height: 280px;
+    width: 100%;
+    position:relative;
+  margin-left: 300px;
+    
+    
+    
+}
+
+.logo{
+    height: 300px;
+    width: 500px;
+    background-image: url(logo.jpeg);
+    background-size:cover;
+    margin-left: 1200px;
+    padding-right: 10px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ 
+a { font-style: italic;
+    text-decoration: none;
+    font-size: xx-large;
+    margin-right: 50px;
+    color: black;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.signup{
+    text-align: right;
+    margin-bottom: 25px;
+    
+}
+
+
+body{
+
+    height: 778px;
+    width: 1520px;
+    background-image: url(background\ img\ for\ landing.jpeg);
+    background-size: cover;
+
+
+
+}
+
+
+
+
+
